@@ -17,7 +17,6 @@
 
 ## 🧱 Project Structure
 
-```bash
 lib/
 ├── global_variables.dart          # List of all products and constants
 ├── main.dart                      # Entry point of the app
