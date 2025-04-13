@@ -1,16 +1,31 @@
-# lacelab
+# 👟 LaceLab
 
-A new Flutter project.
+**LaceLab** is a beautifully designed Flutter-based shoe store app that offers users a modern and smooth shopping experience. It includes dynamic product listing, company-based filtering, real-time search, and a cart system ready for expansion.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🏠 **Home Page** – Displays all available shoes.
+- 🔍 **Search Bar** – Quickly search shoes by title.
+- 🏷️ **Company Filters** – Filter shoes by brand (Nike, Puma, Rick Owens, etc.).
+- 🛒 **Cart Page** – View selected items (UI ready, logic expandable).
+- 📦 **Product Details** – Tap on any product to view details.
+- 🎨 **Clean UI** – Styled using Flutter’s Material design with dynamic chip filters.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧱 Project Structure
+
+```bash
+lib/
+├── global_variables.dart          # List of all products and constants
+├── main.dart                      # Entry point of the app
+├── pages/
+│   ├── home_page.dart             # Home page with bottom navigation
+│   ├── cart_page.dart             # UI for cart items
+│   └── product_details_page.dart  # Detailed view of a selected product
+├── widgets/
+│   ├── product_card.dart          # Custom card widget for products
+│   └── product_list.dart          # Handles filtering, searching and product UI
+
