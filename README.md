@@ -33,3 +33,8 @@ lib/
 ## 📦 Download
 
 [Download APK](https://github.com/tanmayyysachan/LaceLab/releases/download/v1.0/app-release.apk)
+
+## 🎥 Demo
+
+[Watch Demo Video](https://github.com/tanmayyysachan/LaceLab/releases/download/v1.0/demo.mp4)
+
