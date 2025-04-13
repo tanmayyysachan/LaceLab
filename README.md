@@ -26,7 +26,8 @@
 │   └── product_details_page.dart# Detailed view of a selected product
 └── widgets/
     ├── product_card.dart        # Custom card widget for products
-    └── product_list.dart        # Handles filtering, searching and product UI```
+    └── product_list.dart        # Handles filtering, searching and product UI
+```
 
 ## 📦 Download
 
