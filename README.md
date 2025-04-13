@@ -29,3 +29,6 @@ lib/
 │   ├── product_card.dart          # Custom card widget for products
 │   └── product_list.dart          # Handles filtering, searching and product UI
 
+## 📦 Download
+
+[Download APK](https://github.com/tanmayyysachan/LaceLab/releases/latest/download/app-release.apk)
