@@ -43,4 +43,4 @@
 
 ---
 
-> Built with ❤️ to make your music experience smoother.
+> Built with ❤️ to make your shopping experience smoother.
