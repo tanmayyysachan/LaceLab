@@ -17,7 +17,7 @@
 
 ## 🧱 Project Structure
 
-'''lib/
+```lib/
 ├── global_variables.dart        # List of all products and constants
 ├── main.dart                    # Entry point of the app
 ├── pages/
@@ -26,7 +26,7 @@
 │   └── product_details_page.dart# Detailed view of a selected product
 └── widgets/
     ├── product_card.dart        # Custom card widget for products
-    └── product_list.dart        # Handles filtering, searching and product UI'''
+    └── product_list.dart        # Handles filtering, searching and product UI```
 
 ## 📦 Download
 
@@ -35,5 +35,3 @@
 ## 👥 Demo
 
 [Watch Demo Video](https://github.com/tanmayyysachan/LaceLab/releases/download/v1.0/demo.mp4)
-
-
